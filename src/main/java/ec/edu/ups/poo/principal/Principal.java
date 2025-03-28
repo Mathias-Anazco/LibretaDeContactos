@@ -11,8 +11,6 @@ public class Principal {
 
         Scanner sc = new Scanner(System.in);
 
-        GregorianCalendar gregorianCalendar = new GregorianCalendar();
-
 
         System.out.println("-----Libreta de contactos-----");
         System.out.println("Cuantas personas quieres ingresar");
