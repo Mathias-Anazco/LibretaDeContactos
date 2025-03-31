@@ -11,7 +11,7 @@ public class Principal {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Compartiendo repositorio con Yandri Sanchez");
+        System.out.println("Compartiendo repositorio con Yandri Sanchez mensaje 1");
         System.out.println("Hola mundo");
 
         System.out.println("-----Libreta de contactos-----");
